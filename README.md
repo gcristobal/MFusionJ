@@ -10,7 +10,19 @@ The proposed methodology incorporates a sophisticated two-scale decomposition (T
 ![f](https://github.com/gcristobal/MFusionJ/assets/1918777/9ed91dc1-dbb1-4acb-9e5d-8d0218db50f8) ![plot](https://github.com/gcristobal/MFusionJ/assets/1918777/74e8583e-3de4-4a1b-9075-1259641bc7ad) 
 
 
-`$ npm install marked`
+**If you find this work useful, please cite**:
+
+	@inproceedings{singh24,
+	  author={Singh, H. and Forero, M. and Agaoglu, N. and Bueno, G. and Deniz, O. and Cristobal, G.},
+	  booktitle={Proc. SPIE Optics, Photonics, and Digital Technologies for Imaging Applications (April 2024), Strasbourg, France},
+	  title={An ImageJ plugin for image fusion based on edge-preserving filtering},
+	  year={2024},
+	  volume = {},
+	  pages = {},
+	  doi={}
+	}
+
+
 
 
 
