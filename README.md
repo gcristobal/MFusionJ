@@ -11,7 +11,10 @@ Focus#1 | Focus#2  | Focus#3 |Fused result
 :------:|:------:|:------:|:------:
 [<img src="./images/1.jpg" height="150" hspace="20">](./TheBOX)|[<img src="./images/2.jpg" height="150">](./CAD)|[<img src="./images/3.jpg" height="150">](./APPLICATIONS)|[<img src="./images/fus.jpg" height="150">](./WORKSHOP)
 
-
+## 3D plot using fused image as texture
+3D plot |
+:------: |
+[<img src="./images/plot.jpg" height="200">](./CAD)
 
 
 **If you find this work useful, please cite**:
