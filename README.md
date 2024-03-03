@@ -14,13 +14,13 @@ First convert the individual images to stacks. From the Image menu follow: Image
 * In the case of 8-bit stack images, apply the following sequence of steps from the dropdown menu: Decompose->WMAP->Fusion
 * In the case of RGB-color stack images use the FusionMacro_RGB.ijm macro included
 
-## Multifocus fusion example
+### Multifocus fusion example
 
 Focus#1 | Focus#2  | Focus#3 |Fused result
 :------:|:------:|:------:|:------:
 [<img src="./images/1.jpg" height="150" hspace="20">](./TheBOX)|[<img src="./images/2.jpg" height="150">](./CAD)|[<img src="./images/3.jpg" height="150">](./APPLICATIONS)|[<img src="./images/fus.jpg" height="150">](./WORKSHOP)
 
-## 3D plot using the fused image as a texture on the surface
+### 3D plot using the fused image as a texture on the surface
 3D plot |
 :------: |
 [<img src="./images/plot.jpg" height="200">](./CAD)
