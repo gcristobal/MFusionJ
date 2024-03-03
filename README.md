@@ -6,8 +6,12 @@ The significance of this capability becomes particularly apparent when dealing w
 The proposed methodology incorporates a sophisticated two-scale decomposition (TSD) scheme, complemented by the refinement of weight maps using edge-preserving filtering (EPF). This dual approach ensures the preservation of fine details in the fused image while simultaneously minimizing noise. Such innovations make this plugin a valuable tool for researchers and analysts working with complex image datasets. 
 
 ## Multifocus fusion example
-![1](https://github.com/gcristobal/MFusionJ/assets/1918777/7e31162f-3365-4726-9f1d-9267b51264da) ![2](https://github.com/gcristobal/MFusionJ/assets/1918777/62cce3fe-1866-48bb-9e60-9becba693321) ![3](https://github.com/gcristobal/MFusionJ/assets/1918777/09f42468-4b07-4477-809c-3dbe8022d150) 
-![f](https://github.com/gcristobal/MFusionJ/assets/1918777/9ed91dc1-dbb1-4acb-9e5d-8d0218db50f8) ![plot](https://github.com/gcristobal/MFusionJ/assets/1918777/74e8583e-3de4-4a1b-9075-1259641bc7ad) 
+
+Focus#1 | Focus#2  | Focus#3 |Fused result
+:------:|:------:|:------:|:------:
+[<img src="./images/1.jpg" height="150" hspace="20">](./TheBOX)|[<img src="./images/2.jpg" height="150">](./CAD)|[<img src="./images/3.jpg" height="150">](./APPLICATIONS)|[<img src="./images/f.jpg" height="150">](./WORKSHOP)
+[Choose a version and build your own BOX.](./TheBOX) | [Explore the toolbox and its applications.](./CAD) | [Alternatives for many Microscopy methods... and more.](./APPLICATIONS) | [Host or join a UC2 workshop.](./WORKSHOP)
+
 
 
 **If you find this work useful, please cite**:
