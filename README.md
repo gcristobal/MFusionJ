@@ -21,6 +21,7 @@ Focus#1 | Focus#2  | Focus#3 |Fused result
 [<img src="./images/1.jpg" height="150" hspace="20">](./TheBOX)|[<img src="./images/2.jpg" height="150">](./CAD)|[<img src="./images/3.jpg" height="150">](./APPLICATIONS)|[<img src="./images/fus.jpg" height="150">](./WORKSHOP)
 
 ### 3D plot using the fused image as a texture on the surface
+For a better visualization of the surface of the object the [Interactive 3D Surface Plot](https://imagej.net/ij/plugins/surface-plot-3d.html) plugin can be used.
 3D plot |
 :------: |
 [<img src="./images/plot.jpg" height="200">](./CAD)
