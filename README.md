@@ -11,8 +11,10 @@ Unzip the downloaded file, and place the resultant MFusionJ folder in the plugin
 
 ### Usage
 First convert the individual images to stacks. From the Image menu follow: Image->Stacks->Images to Stack 
-* In the case of 8-bit stack images, apply the following sequence of steps from the dropdown menu: Decompose->WMAP->Fusion
-* In the case of RGB-color stack images use the FusionMacro_RGB.ijm macro included
+* In the case of multifocus images, apply the macro: Fusion_multifocus.ijm
+* In the case of multiexposure images, apply the macro: Fusion_multiexposure.ijm
+  
+The macros can accept both 8-bit and RGB stacks.
 
 ### Multifocus fusion example
 
