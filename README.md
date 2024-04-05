@@ -28,6 +28,12 @@ For a better visualization of the surface of the object the [Interactive 3D Surf
 :------: |
 [<img src="./images/plot.jpg" height="200">](./CAD)
 
+### Multiexposure fusion example
+
+Exp.time: 1/60 | Exp.time: 1/100  | Exp.time: 1/160 |Fused result
+:------:|:------:|:------:|:------:
+[<img src="./images/60.png" height="150" hspace="20">](./TheBOX)|[<img src="./images/100.png" height="150">](./CAD)|[<img src="./images/160.png" height="150">](./APPLICATIONS)|[<img src="./images/fused_exp.png" height="150">](./WORKSHOP)
+
 
 **If you find this work useful, please cite**:
 
