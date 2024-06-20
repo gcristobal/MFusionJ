@@ -38,14 +38,17 @@ Exp.time: 1/60 | Exp.time: 1/100  | Exp.time: 1/160 |Fused result
 **If you find this work useful, please cite**:
 
 	@inproceedings{singh24,
-	  author={Singh, H. and Forero, M. and Agaoglu, N. and Bueno, G. and Deniz, O. and Cristobal, G.},
-	  booktitle={Proc. SPIE Optics, Photonics, and Digital Technologies for Imaging Applications (April 2024), Strasbourg, France},
-	  title={An ImageJ plugin for image fusion based on edge-preserving filtering},
-	  year={2024},
-	  volume = {},
-	  pages = {},
-	  doi={}
-	}
+        author = {Harbinder Singh and Manuel G. Forero and Nuray Ağaoğlu and Gloria Bueno and Oscar Deniz and Gabriel Cristobal},
+        title = {{An ImageJ plugin for image fusion based on edge-preserving filtering}},
+        volume = {12998},
+        booktitle = {Optics, Photonics, and Digital Technologies for Imaging Applications VIII},
+        editor = {Peter Schelkens and Tomasz Kozacki},
+        organization = {International Society for Optics and Photonics},
+        publisher = {SPIE},
+        pages = {129980Q},
+        year = {2024},
+        doi = {10.1117/12.3017408}
+        }
 
 
 
