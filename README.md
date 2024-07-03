@@ -1,7 +1,7 @@
 ## MFusionJ
 This innovative ImageJ plugin is designed to significantly enhance depth-of-field (DoF) by seamlessly merging a series of multi-focus images, enabling detailed analysis. Rigorous testing on multi-exposure image stacks has demonstrated its proficiency in preserving intricate details within both poorly and brightly illuminated regions of 3-D transparent diatom shells.
 
-This capability is particularly valuable for images with limited DoF and varying exposure settings under low signal-to-noise ratio conditions. The plugin's effectiveness has been thoroughly validated through processing and analyzing numerous image stacks featuring diverse diatom and cyanobacteria stacks of images.
+This capability is particularly valuable for images with limited DoF and varying exposure settings under low signal-to-noise ratio conditions. The plugin's effectiveness has been thoroughly validated through processing and analyzing numerous image stacks featuring diverse diatom and cyanobacteria species.
 
 The methodology incorporates a sophisticated two-scale decomposition (TSD) scheme, enhanced by the refinement of weight maps using edge-preserving filtering (EPF). This dual approach ensures the preservation of fine details in the fused image while simultaneously minimizing noise. These innovations make this plugin an invaluable tool for researchers and analysts working with complex image datasets. 
 
