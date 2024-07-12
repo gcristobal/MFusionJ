@@ -3,7 +3,7 @@ This innovative ImageJ plugin is designed to significantly enhance depth-of-fiel
 
 This capability is particularly valuable for images with limited DoF and varying exposure settings under low signal-to-noise ratio conditions. The plugin's effectiveness has been thoroughly validated through processing and analyzing numerous image stacks featuring diverse diatom and cyanobacteria species.
 
-The methodology incorporates a sophisticated two-scale decomposition (TSD) scheme, enhanced by the refinement of weight maps using edge-preserving filtering (EPF). This dual approach ensures the preservation of fine details in the fused image while simultaneously minimizing noise. These innovations make this plugin an invaluable tool for researchers and analysts working with complex image datasets. 
+The methodology incorporates a sophisticated two-scale decomposition (TSD) scheme, enhanced by the refinement of weight maps using edge-preserving filtering (EPF). This dual approach ensures the preservation of fine details in the fused image while minimizing noise. These innovations make this plugin an invaluable tool for researchers and analysts working with complex image datasets. 
 
 ### Install
 MFusionJ is a 64-bit plugin for ImageJ/Fiji, requiring ImageJ/Fiji to be installed on your computer.
@@ -24,19 +24,19 @@ The macros can accept both 8-bit and RGB stacks.
 
 Focus#1 | Focus#2  | Focus#3 |Fused result
 :------:|:------:|:------:|:------:
-[<img src="./images/1.jpg" height="150" hspace="20">](./TheBOX)|[<img src="./images/2.jpg" height="150">](./CAD)|[<img src="./images/3.jpg" height="150">](./APPLICATIONS)|[<img src="./images/fus.jpg" height="150">](./WORKSHOP)
+[<img src="./images/1.jpg" height="150" hspace="20">](./TheBOX)|[<img src="./images/2.jpg" height="150">](./CAD)|[<img src="./images/3.jpg" height="150">](./APPLICATIONS)|[<img src="./images/fus.jpg" height="150">]
 
 ### 3D plot using the fused image as a texture on the surface
 For a better visualization of the surface of the object the [Interactive 3D Surface Plot](https://imagej.net/ij/plugins/surface-plot-3d.html) plugin can be used.
 3D plot |
 :------: |
-[<img src="./images/plot.jpg" height="200">](./CAD)
+[<img src="./images/plot.jpg" height="200">]
 
 ### Multiexposure fusion example
 
 Exp.time: 1/60 | Exp.time: 1/100  | Exp.time: 1/160 |Fused result
 :------:|:------:|:------:|:------:
-[<img src="./images/60.png" height="150" hspace="20">](./TheBOX)|[<img src="./images/100.png" height="150">](./CAD)|[<img src="./images/160.png" height="150">](./APPLICATIONS)|[<img src="./images/fused_exp.png" height="150">](./WORKSHOP)
+[<img src="./images/60.png" height="150" hspace="20">](./TheBOX)|[<img src="./images/100.png" height="150">](./CAD)|[<img src="./images/160.png" height="150">](./APPLICATIONS)|[<img src="./images/fused_exp.png" height="150">]
 
 
 **If you find this work useful, please cite**:
