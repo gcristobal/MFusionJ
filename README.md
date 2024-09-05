@@ -53,7 +53,7 @@ Exp.time: 1/60 | Exp.time: 1/100  | Exp.time: 1/160 |Fused result
         year = {2024},
         doi = {10.1117/12.3017408}
         }
-
+**The preprint is available for access at [Digital CSIC](https://digital.csic.es/handle/10261/361518)**
 
 
 
