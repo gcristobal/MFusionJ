@@ -8,10 +8,10 @@ The methodology incorporates a sophisticated two-scale decomposition (TSD) schem
 ### Install
 MFusionJ is a 64-bit plugin for ImageJ/Fiji, requiring ImageJ/Fiji to be installed on your computer.
 To install MFusionJ:
-1. Unzip the downloaded file.
-2. Place the resulting MFusionJ folder into the 'plugins' directory of your local ImageJ/Fiji installation.
+1. Place the 'MFusionJ' folder into the 'plugins' directory of your local ImageJ/Fiji installation.
+2. Place the 'Fusion_multifocus.ijm' and 'Fusion_multiexposure.ijm' files included in the 'macros' folder into the 'MFusionJ' folder.
 3. Open ImageJ/Fiji. If it is already open, restart it.
-MFusionJ will now be accessible from the Plugins dropdown menu.
+MFusionJ will now be accessible from the Plugins dropdown menu, including the 'Fusion_multifocus.ijm' and 'Fusion_multiexposure.ijm' macros.
 
 ### Usage
 First, convert the individual images to stacks by navigating through the Image menu:  Image->Stacks->Images to Stack 
