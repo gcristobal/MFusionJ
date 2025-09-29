@@ -7,9 +7,9 @@ public class Decompose_ implements PlugInFilter
 {
     ImagePlus imp;
     int height,width,bigWidth_g,bigHeight_g;
-    int sigmaS=1,iter=3,size,type;
+    int sigmaS=1,iter=5,size,type;
     float scale=0.5f;
-    float gamma=1.2f;// 1 works better
+    float gamma=1.0f;
     int nSlices,gvc;
     ImageStack stack;
     float gscale;
