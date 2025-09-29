@@ -18,7 +18,7 @@ First, convert the individual images to stacks by navigating through the Image m
 * For multifocus images, apply the macro 'Fusion_multifocus.ijm'
 * For multiexposure images, apply the macro 'Fusion_multiexposure.ijm'
   
-The macros can accept both 8-bit and RGB stacks.
+The macros can accept both 8-bit and RGB images (or stacks) as input.
 
 ### Multifocus fusion example
 
